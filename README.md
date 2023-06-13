@@ -1,2 +1,2 @@
 # micro-qianku
-基于qiankun react18 vue3 的微前端应用
+基于qiankun create-react-app react18 的微前端应用, 筹建中...
